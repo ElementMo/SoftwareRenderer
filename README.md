@@ -1,5 +1,5 @@
 # SoftwareRenderer
-A simple software rasterize renderer for [cs6554 computer graphics](https://icg.gwu.edu/csci-6555-computer-animation-fall-2019)
+A simple software rasterize renderer for [CSCI 6554 Computer Graphics II](https://icg.gwu.edu/academics)
 ## Lab1 Viewing Transform
 ![img](imgs/Wireframe.gif)
 ## Lab2 Scan Conversion
