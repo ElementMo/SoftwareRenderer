@@ -6,3 +6,5 @@ A simple software rasterize renderer for [CSCI 6554 Computer Graphics II](https:
 ![img](imgs/EdgeGlowCow.gif)
 ## Lab3 Shading
 ![img](imgs/Shading.gif)
+## Lab4 Texture Mapping
+![img](imgs/earth2.gif)
